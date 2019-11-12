@@ -1,0 +1,5 @@
+name: 'todo[bot]'
+description: 'todo[bot] that works with keywords in code to open issues'
+runs:
+  using: 'node12'
+  main: 'action.js'
